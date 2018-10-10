@@ -1,0 +1,44 @@
+body{
+	font-family: helvetica;
+	background-color: #3399ff;
+	color: #ffcc66;
+}
+.title{
+	font-size: 24pt;
+	text-decoration: underline;
+	text-align: center;
+}
+.subtitle{
+	font-size: 18pt;
+	font-style: italic;
+	text-align: center;
+}
+
+.paragraph
+{
+	background-color: #0033cc;
+	border-color: silver;
+	border-width: 30px;
+	border-style: solid;
+}
+
+.paragraph-2
+{
+	background-color:#ff1aff;
+		border-color: silver;
+	border-width: 20px;
+	border-style: solid;
+}
+
+.section-title
+{
+	font-size: 14pt;
+	font-style: italic;
+	text-align: center;	
+}
+
+.centered-image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
